@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>It-Internals on Tekion IT Status Page</title>
+    <link>http://localhost:1313/it-internal/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2024-08-18T10:00:00+00:00</lastBuildDate>
+    <updated>2024-08-18T10:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/it-internal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Helpdesk Operations Status</title>
+        <link>http://localhost:1313/it-internal/helpdesk-status/</link>
+        <pubDate>Sun, 18 Aug 2024 10:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/it-internal/helpdesk-status/</guid>
+        <category></category>
+        <description>&lt;p&gt;Current helpdesk operations are running smoothly. All ticket queues are being processed within SLA timeframes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Active Tickets:&lt;/strong&gt; 12&lt;br&gt;
+&lt;strong&gt;Response Time:&lt;/strong&gt; &amp;lt; 15 minutes&lt;br&gt;
+&lt;strong&gt;Resolution Rate:&lt;/strong&gt; 95%&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;Current helpdesk operations are running smoothly. All ticket queues are being processed within SLA timeframes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Active Tickets:&lt;/strong&gt; 12&lt;br&gt;
+&lt;strong&gt;Response Time:&lt;/strong&gt; &amp;lt; 15 minutes&lt;br&gt;
+&lt;strong&gt;Resolution Rate:&lt;/strong&gt; 95%&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>Scheduled Maintenance Windows</title>
+        <link>http://localhost:1313/it-internal/maintenance-schedule/</link>
+        <pubDate>Sun, 18 Aug 2024 10:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/it-internal/maintenance-schedule/</guid>
+        <category></category>
+        <description>&lt;h2 id=&#34;upcoming-maintenance-windows&#34;&gt;Upcoming Maintenance Windows&lt;/h2&gt;
+&lt;h3 id=&#34;weekly-maintenance-schedule&#34;&gt;Weekly Maintenance Schedule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Day:&lt;/strong&gt; Every Sunday&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 2:00 AM - 4:00 AM IST&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scope:&lt;/strong&gt; Network infrastructure updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;monthly-maintenance-schedule&#34;&gt;Monthly Maintenance Schedule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Day:&lt;/strong&gt; First Saturday of each month&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 12:00 AM - 6:00 AM IST&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scope:&lt;/strong&gt; Server patching and updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;next-scheduled-maintenance&#34;&gt;Next Scheduled Maintenance:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; August 25, 2024&lt;br&gt;
+&lt;strong&gt;Time:&lt;/strong&gt; 2:00 AM - 4:00 AM IST&lt;br&gt;
+&lt;strong&gt;Impact:&lt;/strong&gt; Minimal - Network equipment firmware updates&lt;/p&gt;
+&lt;h3 id=&#34;contact-information&#34;&gt;Contact Information:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IT Operations:&lt;/strong&gt; &lt;a href=&#34;mailto:it-ops@tekion.com&#34;&gt;it-ops@tekion.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emergency Contact:&lt;/strong&gt; +91-XXXX-XXXX-XX&lt;/li&gt;
+&lt;/ul&gt;</description>
+        <content type="html">&lt;h2 id=&#34;upcoming-maintenance-windows&#34;&gt;Upcoming Maintenance Windows&lt;/h2&gt;
+&lt;h3 id=&#34;weekly-maintenance-schedule&#34;&gt;Weekly Maintenance Schedule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Day:&lt;/strong&gt; Every Sunday&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 2:00 AM - 4:00 AM IST&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scope:&lt;/strong&gt; Network infrastructure updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;monthly-maintenance-schedule&#34;&gt;Monthly Maintenance Schedule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Day:&lt;/strong&gt; First Saturday of each month&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 12:00 AM - 6:00 AM IST&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scope:&lt;/strong&gt; Server patching and updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;next-scheduled-maintenance&#34;&gt;Next Scheduled Maintenance:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; August 25, 2024&lt;br&gt;
+&lt;strong&gt;Time:&lt;/strong&gt; 2:00 AM - 4:00 AM IST&lt;br&gt;
+&lt;strong&gt;Impact:&lt;/strong&gt; Minimal - Network equipment firmware updates&lt;/p&gt;
+&lt;h3 id=&#34;contact-information&#34;&gt;Contact Information:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IT Operations:&lt;/strong&gt; &lt;a href=&#34;mailto:it-ops@tekion.com&#34;&gt;it-ops@tekion.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emergency Contact:&lt;/strong&gt; +91-XXXX-XXXX-XX&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>System Operations Monitoring</title>
+        <link>http://localhost:1313/it-internal/sysops-monitoring/</link>
+        <pubDate>Sun, 18 Aug 2024 09:30:00 +0000</pubDate>
+        <guid>http://localhost:1313/it-internal/sysops-monitoring/</guid>
+        <category></category>
+        <description>&lt;p&gt;All systems are being monitored 24/7. Current infrastructure health is optimal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Server Uptime:&lt;/strong&gt; 99.8%&lt;br&gt;
+&lt;strong&gt;Network Performance:&lt;/strong&gt; Normal&lt;br&gt;
+&lt;strong&gt;Storage Utilization:&lt;/strong&gt; 65%&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;All systems are being monitored 24/7. Current infrastructure health is optimal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Server Uptime:&lt;/strong&gt; 99.8%&lt;br&gt;
+&lt;strong&gt;Network Performance:&lt;/strong&gt; Normal&lt;br&gt;
+&lt;strong&gt;Storage Utilization:&lt;/strong&gt; 65%&lt;/p&gt;
+</content>
+      </item>
+    
+      <item>
+        <title>Security Updates &amp; Patches</title>
+        <link>http://localhost:1313/it-internal/security-updates/</link>
+        <pubDate>Sun, 18 Aug 2024 09:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/it-internal/security-updates/</guid>
+        <category></category>
+        <description>&lt;h2 id=&#34;current-security-status&#34;&gt;Current Security Status&lt;/h2&gt;
+&lt;h3 id=&#34;recent-security-updates&#34;&gt;Recent Security Updates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Windows Security Patches:&lt;/strong&gt; Applied August 15, 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Network Firewall Rules:&lt;/strong&gt; Updated August 12, 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VPN Certificate Renewal:&lt;/strong&gt; Completed August 10, 2024&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pending-security-actions&#34;&gt;Pending Security Actions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Quarterly Security Audit&lt;/strong&gt; - Scheduled for August 30, 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Employee Security Training&lt;/strong&gt; - September 5, 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vulnerability Assessment&lt;/strong&gt; - September 15, 2024&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;security-metrics&#34;&gt;Security Metrics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Patch Compliance:&lt;/strong&gt; 98.5%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security Incidents:&lt;/strong&gt; 0 (This month)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Failed Login Attempts:&lt;/strong&gt; Monitored 24/7&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;security-contacts&#34;&gt;Security Contacts:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Security Team:&lt;/strong&gt; &lt;a href=&#34;mailto:security@tekion.com&#34;&gt;security@tekion.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incident Response:&lt;/strong&gt; &lt;a href=&#34;mailto:incident-response@tekion.com&#34;&gt;incident-response@tekion.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+        <content type="html">&lt;h2 id=&#34;current-security-status&#34;&gt;Current Security Status&lt;/h2&gt;
+&lt;h3 id=&#34;recent-security-updates&#34;&gt;Recent Security Updates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Windows Security Patches:&lt;/strong&gt; Applied August 15, 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Network Firewall Rules:&lt;/strong&gt; Updated August 12, 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VPN Certificate Renewal:&lt;/strong&gt; Completed August 10, 2024&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pending-security-actions&#34;&gt;Pending Security Actions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Quarterly Security Audit&lt;/strong&gt; - Scheduled for August 30, 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Employee Security Training&lt;/strong&gt; - September 5, 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vulnerability Assessment&lt;/strong&gt; - September 15, 2024&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;security-metrics&#34;&gt;Security Metrics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Patch Compliance:&lt;/strong&gt; 98.5%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security Incidents:&lt;/strong&gt; 0 (This month)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Failed Login Attempts:&lt;/strong&gt; Monitored 24/7&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;security-contacts&#34;&gt;Security Contacts:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Security Team:&lt;/strong&gt; &lt;a href=&#34;mailto:security@tekion.com&#34;&gt;security@tekion.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incident Response:&lt;/strong&gt; &lt;a href=&#34;mailto:incident-response@tekion.com&#34;&gt;incident-response@tekion.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

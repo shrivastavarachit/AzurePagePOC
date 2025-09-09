@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>Bangalore on Tekion IT Status Page</title>
+    <link>http://localhost:1313/affected/bangalore/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2025-09-02T07:37:33+00:00</lastBuildDate>
+    <updated>2025-09-02T07:37:33+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/affected/bangalore/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Resolved] Plum meeting room issue</title>
+        <link>http://localhost:1313/issues/2025-09-02-plum-meeting-room-issue/</link>
+        <pubDate>Tue, 02 Sep 2025 07:37:33 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2025-09-02-plum-meeting-room-issue/</guid>
+        <category>2025-09-02T10:33:52.085Z</category>
+        <description>&lt;p&gt;&lt;em&gt;9/4/2025&lt;/em&gt; - Room is fixed, and running&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;9/2/2025&lt;/em&gt; - Maintenance is still going onn new ETA 1700 hrs&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;9/2/2025&lt;/em&gt; - Update - 2 cables are being replaced&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;9/2/2025&lt;/em&gt; - Update - Vendor is on the way&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;9/2/2025&lt;/em&gt; - Update - Will be up by 1300 hrs today&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Investigating&lt;/em&gt; - Under maintenance&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;&lt;em&gt;9/4/2025&lt;/em&gt; - Room is fixed, and running&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;9/2/2025&lt;/em&gt; - Maintenance is still going onn new ETA 1700 hrs&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;9/2/2025&lt;/em&gt; - Update - 2 cables are being replaced&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;9/2/2025&lt;/em&gt; - Update - Vendor is on the way&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;9/2/2025&lt;/em&gt; - Update - Will be up by 1300 hrs today&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Investigating&lt;/em&gt; - Under maintenance&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

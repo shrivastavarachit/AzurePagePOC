@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "Bangalore ISP Tata Tele",
+  "permalink": "http://localhost:1313/affected/bangalore-isp-tata-tele/",
+  "status": "ok", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Issue Notice for VPN",
+        "createdAt": "2025-09-01 10:06:13.713 +0000 UTC",
+        "lastMod": "2025-09-01 10:06:13.713 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2025-09-01-issue-notice-for-vpn/",
+        "severity": "disrupted",
+        "resolved": true,
+        "informational": false,
+        "resolvedAt": "2025-09-01T10:06:22.634Z",
+        "affected": ["Bangalore ISP Tata Tele"],
+        "filename": "2025-09-01-issue-notice-for-vpn.md"
+      }
+    
+  ]
+}
+
+
+
+
+

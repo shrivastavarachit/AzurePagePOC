@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>Bangalore ISP Tata Tele on Tekion IT Status Page</title>
+    <link>http://localhost:1313/affected/bangalore-isp-tata-tele/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2025-09-01T10:06:13+00:00</lastBuildDate>
+    <updated>2025-09-01T10:06:13+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/affected/bangalore-isp-tata-tele/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Resolved] Issue Notice for VPN</title>
+        <link>http://localhost:1313/issues/2025-09-01-issue-notice-for-vpn/</link>
+        <pubDate>Mon, 01 Sep 2025 10:06:13 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2025-09-01-issue-notice-for-vpn/</guid>
+        <category>2025-09-01T10:06:22.634Z</category>
+        <description>&lt;p&gt;&lt;em&gt;Investigating&lt;/em&gt; - we&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;&lt;em&gt;Investigating&lt;/em&gt; - we&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

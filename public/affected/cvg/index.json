@@ -1,0 +1,27 @@
+{
+  "is": "system",
+  "title": "CVG",
+  "permalink": "http://localhost:1313/affected/cvg/",
+  "status": "notice", 
+  "pages": [
+      {
+        "is": "issue",
+        "title": "Issue Notice for VPN",
+        "createdAt": "2025-09-02 07:35:08.399 +0000 UTC",
+        "lastMod": "2025-09-02 07:35:08.399 +0000 UTC",
+        "permalink": "http://localhost:1313/issues/2025-09-02-issue-notice-for-vpn/",
+        "severity": "notice",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "<no value>",
+        "affected": ["CVG"],
+        "filename": "2025-09-02-issue-notice-for-vpn.md"
+      }
+    
+  ]
+}
+
+
+
+
+

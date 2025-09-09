@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>CVG on Tekion IT Status Page</title>
+    <link>http://localhost:1313/affected/cvg/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2025-09-02T07:35:08+00:00</lastBuildDate>
+    <updated>2025-09-02T07:35:08+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/affected/cvg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Issue Notice for VPN</title>
+        <link>http://localhost:1313/issues/2025-09-02-issue-notice-for-vpn/</link>
+        <pubDate>Tue, 02 Sep 2025 07:35:08 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2025-09-02-issue-notice-for-vpn/</guid>
+        <category></category>
+        <description>&lt;p&gt;&lt;em&gt;Investigating&lt;/em&gt; - hh&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;&lt;em&gt;Investigating&lt;/em&gt; - hh&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

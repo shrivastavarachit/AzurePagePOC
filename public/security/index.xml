@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>Securities on Tekion IT Status Page</title>
+    <link>http://localhost:1313/security/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2024-08-18T10:00:00+00:00</lastBuildDate>
+    <updated>2024-08-18T10:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>[Resolved] SecInfo</title>
+        <link>http://localhost:1313/security/secinfo/</link>
+        <pubDate>Sun, 18 Aug 2024 10:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/security/secinfo/</guid>
+        <category>2024-08-18 10:00:00</category>
+        <description>&lt;p&gt;&lt;em&gt;Update&lt;/em&gt; - All security systems are operational and monitoring is active.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Current Status&lt;/em&gt; - Security infrastructure is functioning normally with no active threats detected.&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;&lt;em&gt;Update&lt;/em&gt; - All security systems are operational and monitoring is active.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Current Status&lt;/em&gt; - Security infrastructure is functioning normally with no active threats detected.&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

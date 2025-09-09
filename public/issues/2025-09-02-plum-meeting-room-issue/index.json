@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "Plum meeting room issue",
+  "body": "\u003cp\u003e\u003cem\u003e9/4/2025\u003c/em\u003e - Room is fixed, and running\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e9/2/2025\u003c/em\u003e - Maintenance is still going onn new ETA 1700 hrs\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e9/2/2025\u003c/em\u003e - Update - 2 cables are being replaced\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e9/2/2025\u003c/em\u003e - Update - Vendor is on the way\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e9/2/2025\u003c/em\u003e - Update - Will be up by 1300 hrs today\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eInvestigating\u003c/em\u003e - Under maintenance\u003c/p\u003e\n",
+  "createdAt": "2025-09-02 07:37:33.4 +0000 UTC",
+  "lastMod": "2025-09-02 07:37:33.4 +0000 UTC",
+  "permalink": "http://localhost:1313/issues/2025-09-02-plum-meeting-room-issue/",
+  "severity": "notice",
+  "resolved": true,
+  "informational": false,
+  "resolvedAt": "2025-09-02T10:33:52.085Z",
+  "affected": ["Bangalore"],
+  "filename": "2025-09-02-plum-meeting-room-issue.md"
+}

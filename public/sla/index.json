@@ -1,0 +1,28 @@
+{
+  "is": "sla",
+  "title": "Slas",
+  "baseURL": "http://localhost:1313/", 
+  "description": "",
+  "pages": [
+      {
+        "is": "page",
+        "title": "Network Uptime SLA",
+        "createdAt": "2024-08-18 10:00:00 +0000 UTC",
+        "lastMod": "2024-08-18 10:00:00 +0000 UTC",
+        "permalink": "http://localhost:1313/sla/network-uptime-sla/",
+        "filename": "network-uptime-sla.md",
+        "summary": "\u003ch2 id=\"network-infrastructure-service-level-agreement\"\u003eNetwork Infrastructure Service Level Agreement\u003c/h2\u003e\n\u003cp\u003e\u003cstrong\u003eTarget Uptime:\u003c/strong\u003e 99.9%\u003cbr\u003e\n\u003cstrong\u003eMeasurement Period:\u003c/strong\u003e Monthly\u003cbr\u003e\n\u003cstrong\u003eScope:\u003c/strong\u003e All office network connections including ISP services\u003c/p\u003e\n\u003ch3 id=\"covered-services\"\u003eCovered Services:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eBangalore ISP Tata Comms\u003c/li\u003e\n\u003cli\u003eBangalore ISP Tata Tele\u003c/li\u003e\n\u003cli\u003eBangalore ISP Airtel\u003c/li\u003e\n\u003cli\u003eCorp VPN connectivity\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"sla-metrics\"\u003eSLA Metrics:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eAvailability:\u003c/strong\u003e 99.9% uptime per month\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eResponse Time:\u003c/strong\u003e \u0026lt; 15 minutes for critical issues\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eResolution Time:\u003c/strong\u003e \u0026lt; 4 hours for network outages\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"current-status-meeting-sla-targets\"\u003eCurrent Status: Meeting SLA targets\u003c/h3\u003e"
+      }
+    ,
+      {
+        "is": "page",
+        "title": "Application Performance SLA",
+        "createdAt": "2024-08-18 09:30:00 +0000 UTC",
+        "lastMod": "2024-08-18 09:30:00 +0000 UTC",
+        "permalink": "http://localhost:1313/sla/application-performance-sla/",
+        "filename": "application-performance-sla.md",
+        "summary": "\u003ch2 id=\"corporate-applications-service-level-agreement\"\u003eCorporate Applications Service Level Agreement\u003c/h2\u003e\n\u003cp\u003e\u003cstrong\u003eTarget Uptime:\u003c/strong\u003e 99.5%\u003cbr\u003e\n\u003cstrong\u003eMeasurement Period:\u003c/strong\u003e Monthly\u003cbr\u003e\n\u003cstrong\u003eScope:\u003c/strong\u003e All corporate applications and services\u003c/p\u003e\n\u003ch3 id=\"covered-services\"\u003eCovered Services:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIT Helpdesk Portal\u003c/li\u003e\n\u003cli\u003eCorp VPN Services\u003c/li\u003e\n\u003cli\u003eInternal APIs\u003c/li\u003e\n\u003cli\u003eMedia Proxy Services\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"sla-metrics\"\u003eSLA Metrics:\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eAvailability:\u003c/strong\u003e 99.5% uptime per month\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eResponse Time:\u003c/strong\u003e \u0026lt; 2 seconds for web applications\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eResolution Time:\u003c/strong\u003e \u0026lt; 2 hours for application issues\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3 id=\"current-status-meeting-sla-targets\"\u003eCurrent Status: Meeting SLA targets\u003c/h3\u003e"
+      }
+    
+  ]
+}

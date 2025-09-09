@@ -1,0 +1,8 @@
+{
+  "is": "page",
+  "title": "Helpdesk Operations Status",
+  "createdAt": "2024-08-18 10:00:00 +0000 UTC",
+  "filename": "helpdesk-status.md",
+  "permalink": "http://localhost:1313/it-internal/helpdesk-status/",
+  "body": "\u003cp\u003eCurrent helpdesk operations are running smoothly. All ticket queues are being processed within SLA timeframes.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eActive Tickets:\u003c/strong\u003e 12\u003cbr\u003e\n\u003cstrong\u003eResponse Time:\u003c/strong\u003e \u0026lt; 15 minutes\u003cbr\u003e\n\u003cstrong\u003eResolution Rate:\u003c/strong\u003e 95%\u003c/p\u003e\n"
+}

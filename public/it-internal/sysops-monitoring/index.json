@@ -1,0 +1,8 @@
+{
+  "is": "page",
+  "title": "System Operations Monitoring",
+  "createdAt": "2024-08-18 09:30:00 +0000 UTC",
+  "filename": "sysops-monitoring.md",
+  "permalink": "http://localhost:1313/it-internal/sysops-monitoring/",
+  "body": "\u003cp\u003eAll systems are being monitored 24/7. Current infrastructure health is optimal.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eServer Uptime:\u003c/strong\u003e 99.8%\u003cbr\u003e\n\u003cstrong\u003eNetwork Performance:\u003c/strong\u003e Normal\u003cbr\u003e\n\u003cstrong\u003eStorage Utilization:\u003c/strong\u003e 65%\u003c/p\u003e\n"
+}

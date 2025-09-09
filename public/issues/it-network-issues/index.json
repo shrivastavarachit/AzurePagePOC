@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "IT Network Issues",
+  "body": "\u003cp\u003e\u003cem\u003eUpdate\u003c/em\u003e - Bangalore ISP Airtel is now operational and functioning normally.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eInvestigating\u003c/em\u003e - We are currently investigating network connectivity issues affecting Tata Communications and Tata Teleservices ISP connections in Bangalore, as well as Corp VPN services. Our IT team is working to identify and resolve the root cause. We will provide updates as more information becomes available.\u003c/p\u003e\n",
+  "createdAt": "2024-08-18 10:00:00 +0000 UTC",
+  "lastMod": "2024-08-18 10:00:00 +0000 UTC",
+  "permalink": "https://google.com/issues/it-network-issues/",
+  "severity": "disrupted",
+  "resolved": false,
+  "informational": false,
+  "resolvedAt": "<no value>",
+  "affected": ["Bangalore ISP Tata Comms", "Bangalore ISP Tata Tele", "Corp VPN"],
+  "filename": "IT-Network-Issues.md"
+}
