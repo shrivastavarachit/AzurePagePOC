@@ -1,110 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
-    <title>Slas on Tekion IT Status Page</title>
-    <link>http://localhost:1313/sla/</link>
-    <description>Incident history</description>
-    <generator>github.com/cstate</generator>
-    <language>en</language>
-    
-    <lastBuildDate>2024-08-18T10:00:00+00:00</lastBuildDate>
-    <updated>2024-08-18T10:00:00+00:00</updated>
-    
-    
-    
-      <atom:link href="http://localhost:1313/sla/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      <item>
-        <title>Network Uptime SLA</title>
-        <link>http://localhost:1313/sla/network-uptime-sla/</link>
-        <pubDate>Sun, 18 Aug 2024 10:00:00 +0000</pubDate>
-        <guid>http://localhost:1313/sla/network-uptime-sla/</guid>
-        <category></category>
-        <description>&lt;h2 id=&#34;network-infrastructure-service-level-agreement&#34;&gt;Network Infrastructure Service Level Agreement&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://google.com/"/><title>Slas on Tekion IT Status Page</title><link>https://google.com/sla/</link><description>Incident history</description><generator>github.com/cstate</generator><language>en</language><lastBuildDate>2024-08-18T10:00:00+00:00</lastBuildDate><updated>2024-08-18T10:00:00+00:00</updated><atom:link href="https://google.com/sla/index.xml" rel="self" type="application/rss+xml"/><item><title>Network Uptime SLA</title><link>https://google.com/sla/network-uptime-sla/</link><pubDate>Sun, 18 Aug 2024 10:00:00 +0000</pubDate><guid>https://google.com/sla/network-uptime-sla/</guid><category/><description>&lt;h2 id="network-infrastructure-service-level-agreement"&gt;Network Infrastructure Service Level Agreement&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Target Uptime:&lt;/strong&gt; 99.9%&lt;br&gt;
 &lt;strong&gt;Measurement Period:&lt;/strong&gt; Monthly&lt;br&gt;
 &lt;strong&gt;Scope:&lt;/strong&gt; All office network connections including ISP services&lt;/p&gt;
-&lt;h3 id=&#34;covered-services&#34;&gt;Covered Services:&lt;/h3&gt;
+&lt;h3 id="covered-services"&gt;Covered Services:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Bangalore ISP Tata Comms&lt;/li&gt;
 &lt;li&gt;Bangalore ISP Tata Tele&lt;/li&gt;
 &lt;li&gt;Bangalore ISP Airtel&lt;/li&gt;
 &lt;li&gt;Corp VPN connectivity&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;sla-metrics&#34;&gt;SLA Metrics:&lt;/h3&gt;
+&lt;h3 id="sla-metrics"&gt;SLA Metrics:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; 99.9% uptime per month&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Response Time:&lt;/strong&gt; &amp;lt; 15 minutes for critical issues&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Resolution Time:&lt;/strong&gt; &amp;lt; 4 hours for network outages&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;current-status-meeting-sla-targets&#34;&gt;Current Status: Meeting SLA targets&lt;/h3&gt;</description>
-        <content type="html">&lt;h2 id=&#34;network-infrastructure-service-level-agreement&#34;&gt;Network Infrastructure Service Level Agreement&lt;/h2&gt;
+&lt;h3 id="current-status-meeting-sla-targets"&gt;Current Status: Meeting SLA targets&lt;/h3&gt;</description><content type="html">&lt;h2 id="network-infrastructure-service-level-agreement"&gt;Network Infrastructure Service Level Agreement&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Target Uptime:&lt;/strong&gt; 99.9%&lt;br&gt;
 &lt;strong&gt;Measurement Period:&lt;/strong&gt; Monthly&lt;br&gt;
 &lt;strong&gt;Scope:&lt;/strong&gt; All office network connections including ISP services&lt;/p&gt;
-&lt;h3 id=&#34;covered-services&#34;&gt;Covered Services:&lt;/h3&gt;
+&lt;h3 id="covered-services"&gt;Covered Services:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Bangalore ISP Tata Comms&lt;/li&gt;
 &lt;li&gt;Bangalore ISP Tata Tele&lt;/li&gt;
 &lt;li&gt;Bangalore ISP Airtel&lt;/li&gt;
 &lt;li&gt;Corp VPN connectivity&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;sla-metrics&#34;&gt;SLA Metrics:&lt;/h3&gt;
+&lt;h3 id="sla-metrics"&gt;SLA Metrics:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; 99.9% uptime per month&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Response Time:&lt;/strong&gt; &amp;lt; 15 minutes for critical issues&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Resolution Time:&lt;/strong&gt; &amp;lt; 4 hours for network outages&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;current-status-meeting-sla-targets&#34;&gt;Current Status: Meeting SLA targets&lt;/h3&gt;
-</content>
-      </item>
-    
-      <item>
-        <title>Application Performance SLA</title>
-        <link>http://localhost:1313/sla/application-performance-sla/</link>
-        <pubDate>Sun, 18 Aug 2024 09:30:00 +0000</pubDate>
-        <guid>http://localhost:1313/sla/application-performance-sla/</guid>
-        <category></category>
-        <description>&lt;h2 id=&#34;corporate-applications-service-level-agreement&#34;&gt;Corporate Applications Service Level Agreement&lt;/h2&gt;
+&lt;h3 id="current-status-meeting-sla-targets"&gt;Current Status: Meeting SLA targets&lt;/h3&gt;</content></item><item><title>Application Performance SLA</title><link>https://google.com/sla/application-performance-sla/</link><pubDate>Sun, 18 Aug 2024 09:30:00 +0000</pubDate><guid>https://google.com/sla/application-performance-sla/</guid><category/><description>&lt;h2 id="corporate-applications-service-level-agreement"&gt;Corporate Applications Service Level Agreement&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Target Uptime:&lt;/strong&gt; 99.5%&lt;br&gt;
 &lt;strong&gt;Measurement Period:&lt;/strong&gt; Monthly&lt;br&gt;
 &lt;strong&gt;Scope:&lt;/strong&gt; All corporate applications and services&lt;/p&gt;
-&lt;h3 id=&#34;covered-services&#34;&gt;Covered Services:&lt;/h3&gt;
+&lt;h3 id="covered-services"&gt;Covered Services:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;IT Helpdesk Portal&lt;/li&gt;
 &lt;li&gt;Corp VPN Services&lt;/li&gt;
 &lt;li&gt;Internal APIs&lt;/li&gt;
 &lt;li&gt;Media Proxy Services&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;sla-metrics&#34;&gt;SLA Metrics:&lt;/h3&gt;
+&lt;h3 id="sla-metrics"&gt;SLA Metrics:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; 99.5% uptime per month&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Response Time:&lt;/strong&gt; &amp;lt; 2 seconds for web applications&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Resolution Time:&lt;/strong&gt; &amp;lt; 2 hours for application issues&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;current-status-meeting-sla-targets&#34;&gt;Current Status: Meeting SLA targets&lt;/h3&gt;</description>
-        <content type="html">&lt;h2 id=&#34;corporate-applications-service-level-agreement&#34;&gt;Corporate Applications Service Level Agreement&lt;/h2&gt;
+&lt;h3 id="current-status-meeting-sla-targets"&gt;Current Status: Meeting SLA targets&lt;/h3&gt;</description><content type="html">&lt;h2 id="corporate-applications-service-level-agreement"&gt;Corporate Applications Service Level Agreement&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Target Uptime:&lt;/strong&gt; 99.5%&lt;br&gt;
 &lt;strong&gt;Measurement Period:&lt;/strong&gt; Monthly&lt;br&gt;
 &lt;strong&gt;Scope:&lt;/strong&gt; All corporate applications and services&lt;/p&gt;
-&lt;h3 id=&#34;covered-services&#34;&gt;Covered Services:&lt;/h3&gt;
+&lt;h3 id="covered-services"&gt;Covered Services:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;IT Helpdesk Portal&lt;/li&gt;
 &lt;li&gt;Corp VPN Services&lt;/li&gt;
 &lt;li&gt;Internal APIs&lt;/li&gt;
 &lt;li&gt;Media Proxy Services&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;sla-metrics&#34;&gt;SLA Metrics:&lt;/h3&gt;
+&lt;h3 id="sla-metrics"&gt;SLA Metrics:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; 99.5% uptime per month&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Response Time:&lt;/strong&gt; &amp;lt; 2 seconds for web applications&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Resolution Time:&lt;/strong&gt; &amp;lt; 2 hours for application issues&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;current-status-meeting-sla-targets&#34;&gt;Current Status: Meeting SLA targets&lt;/h3&gt;
-</content>
-      </item>
-    
-  </channel>
-</rss>
+&lt;h3 id="current-status-meeting-sla-targets"&gt;Current Status: Meeting SLA targets&lt;/h3&gt;</content></item></channel></rss>

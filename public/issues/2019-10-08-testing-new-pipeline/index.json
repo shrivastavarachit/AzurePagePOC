@@ -1,14 +1,1 @@
-{
-  "is": "issue",
-  "title": "New Implementations",
-  "body": "",
-  "createdAt": "2019-10-05 16:24:00 +0000 UTC",
-  "lastMod": "2019-10-05 16:24:00 +0000 UTC",
-  "permalink": "http://localhost:1313/issues/2019-10-08-testing-new-pipeline/",
-  "severity": "fixed",
-  "resolved": true,
-  "informational": false,
-  "resolvedAt": "2019-10-05 16:58:00",
-  "affected": ["API"],
-  "filename": "2019-10-08-testing-new-pipeline.md"
-}
+{"is":"issue","title":"New Implementations","body":"","createdAt":"2019-10-05 16:24:00 +0000 UTC","lastMod":"2025-09-09 13:13:37 +0530 IST","permalink":"https://google.com/issues/2019-10-08-testing-new-pipeline/","severity":"fixed","resolved":true,"informational":false,"resolvedAt":"2019-10-05 16:58:00","affected":["API"],"filename":"2019-10-08-testing-new-pipeline.md"}

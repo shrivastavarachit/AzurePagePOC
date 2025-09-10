@@ -1,14 +1,1 @@
-{
-  "is": "issue",
-  "title": "Resolved issues",
-  "body": "\u003cp\u003e\u003cem\u003eUpdate\u003c/em\u003e - This incident has been resolved.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eInvestigating\u003c/em\u003e - We\u0026rsquo;re aware of an issue affecting sending DMs and viewing online friends. We\u0026rsquo;re online and working on a resolution.\u003c/p\u003e\n",
-  "createdAt": "2024-12-17 17:24:00 +0000 UTC",
-  "lastMod": "2024-12-17 17:24:00 +0000 UTC",
-  "permalink": "http://localhost:1313/issues/resolved-issues/",
-  "severity": "disrupted",
-  "resolved": true,
-  "informational": true,
-  "resolvedAt": "2024-12-17 17:42:00",
-  "affected": ["API"],
-  "filename": "resolved-issues.md"
-}
+{"is":"issue","title":"Resolved issues","body":"\u003cp\u003e\u003cem\u003eUpdate\u003c/em\u003e - This incident has been resolved.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eInvestigating\u003c/em\u003e - We\u0026rsquo;re aware of an issue affecting sending DMs and viewing online friends. We\u0026rsquo;re online and working on a resolution.\u003c/p\u003e\n","createdAt":"2024-12-17 17:24:00 +0000 UTC","lastMod":"2025-09-09 13:13:37 +0530 IST","permalink":"https://google.com/issues/resolved-issues/","severity":"disrupted","resolved":true,"informational":true,"resolvedAt":"2024-12-17 17:42:00","affected":["API"],"filename":"resolved-issues.md"}

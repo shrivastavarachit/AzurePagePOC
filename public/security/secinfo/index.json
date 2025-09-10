@@ -1,8 +1,1 @@
-{
-  "is": "page",
-  "title": "SecInfo",
-  "createdAt": "2024-08-18 10:00:00 +0000 UTC",
-  "filename": "secinfo.md",
-  "permalink": "http://localhost:1313/security/secinfo/",
-  "body": "\u003cp\u003e\u003cem\u003eUpdate\u003c/em\u003e - All security systems are operational and monitoring is active.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eCurrent Status\u003c/em\u003e - Security infrastructure is functioning normally with no active threats detected.\u003c/p\u003e\n"
-}
+{"is":"page","title":"SecInfo","createdAt":"2024-08-18 10:00:00 +0000 UTC","filename":"secinfo.md","permalink":"https://google.com/security/secinfo/","body":"\u003cp\u003e\u003cem\u003eUpdate\u003c/em\u003e - All security systems are operational and monitoring is active.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eCurrent Status\u003c/em\u003e - Security infrastructure is functioning normally with no active threats detected.\u003c/p\u003e\n"}

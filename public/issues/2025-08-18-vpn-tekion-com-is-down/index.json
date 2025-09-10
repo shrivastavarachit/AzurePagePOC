@@ -1,14 +1,1 @@
-{
-  "is": "issue",
-  "title": "vpn.tekion.com is down",
-  "body": "\u003cp\u003e\u003cem\u003e8/18/2025\u003c/em\u003e - ETA 2hrs from 18:00\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eInvestigating\u003c/em\u003e - Firewall went down, working on the failover\u003c/p\u003e\n",
-  "createdAt": "2025-08-18 11:21:33.3 +0000 UTC",
-  "lastMod": "2025-08-18 11:21:33.3 +0000 UTC",
-  "permalink": "http://localhost:1313/issues/2025-08-18-vpn-tekion-com-is-down/",
-  "severity": "down",
-  "resolved": true,
-  "informational": false,
-  "resolvedAt": "2025-08-18T14:41:47.080Z",
-  "affected": ["Corp VPN"],
-  "filename": "2025-08-18-vpn-tekion-com-is-down.md"
-}
+{"is":"issue","title":"vpn.tekion.com is down","body":"\u003cp\u003e\u003cem\u003e8/18/2025\u003c/em\u003e - ETA 2hrs from 18:00\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eInvestigating\u003c/em\u003e - Firewall went down, working on the failover\u003c/p\u003e\n","createdAt":"2025-08-18 11:21:33.3 +0000 UTC","lastMod":"2025-09-09 13:13:37 +0530 IST","permalink":"https://google.com/issues/2025-08-18-vpn-tekion-com-is-down/","severity":"down","resolved":true,"informational":false,"resolvedAt":"2025-08-18T14:41:47.080Z","affected":["Corp VPN"],"filename":"2025-08-18-vpn-tekion-com-is-down.md"}
