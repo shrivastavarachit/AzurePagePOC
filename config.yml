@@ -185,6 +185,10 @@ params:
       category: Offices
     - name: Austin
       category: Offices
+    - name: Surat
+      category: Offices
+    - name: Jaipur
+      category: Offices
 
     - name: Teams Rooms
       category: IT Internal
