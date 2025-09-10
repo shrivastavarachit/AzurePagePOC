@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://ashy-stone-0df200c10.azurestaticapps.net
+baseURL: https://ashy-stone-0df200c10.2.azurestaticapps.net
 
 # For features like Last modified, you
 # need to use a Git repository. If you
