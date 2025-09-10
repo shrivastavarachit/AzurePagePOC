@@ -177,7 +177,7 @@ params:
     #Offices
     - name: Bangalore
       category: Offices
-      status: operational
+      status: Down
     - name: Chennai
       category: Offices
       status: operational
@@ -186,7 +186,7 @@ params:
       status: operational
     - name: CVG
       category: Offices
-      status: operational
+      status: Down
     - name: Australia
       category: Offices
       status: operational

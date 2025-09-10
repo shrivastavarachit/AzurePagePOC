@@ -13,13 +13,13 @@
           <div class="service-name">{{ .name }}</div>
           <div class="service-status status-{{ .status }}">
             {{ if eq .status "operational" }}
-              ✅ Operational
+              Operational
             {{ else if eq .status "disrupted" }}
-              ⚠️ Disrupted
+              Disrupted
             {{ else if eq .status "down" }}
-              ❌ Down
+              Down
             {{ else }}
-              ❓ Unknown
+              Unknown
             {{ end }}
           </div>
         </div>
