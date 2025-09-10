@@ -29,6 +29,16 @@
       "lastUpdated": "2025-09-02T07:03:09.600Z"
     },
     {
+      "name": "Surat",
+      "status": "operational",
+      "category": "Offices"
+    },
+    {
+      "name": "Jaipur",
+      "status": "operational",
+      "category": "Offices"
+    },
+    {
       "name": "Corp VPN",
       "status": "operational",
       "category": "IT Internal"
