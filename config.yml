@@ -177,56 +177,75 @@ params:
     #Offices
     - name: Bangalore
       category: Offices
+      status: operational
     - name: Chennai
       category: Offices
+      status: operational
     - name: OAK
       category: Offices
+      status: operational
     - name: CVG
       category: Offices
+      status: operational
     - name: Austin
       category: Offices
+      status: operational
 
+    # IT Internal
     - name: Teams Rooms
       category: IT Internal
+      status: operational
       link:
     - name: Access Controlls
       category: IT Internal
+      status: operational
     - name: Status Page
-      category: IT Internal  
+      category: IT Internal
+      status: operational
 
+    # IT Cloud Infrastructure
     - name: Nginx Servers
       category: IT Cloud Infrastructure
+      status: operational
       link:
     - name: Nagios India Servers
       category: IT Cloud Infrastructure
+      status: operational
       link:
     - name: Nagios US Servers
       category: IT Cloud Infrastructure
+      status: operational
       link:
 
+    # URLs/Websites
     - name: Tekion Official Website
       category: URLs/Websites
+      status: operational
       link: https://tekion.com/
 
     - name: IT Helpdesk
       category: URLs/Websites
+      status: operational
       link: https://helpdesk.tekion.com/
 
     - name: Corp VPN
       category: URLs/Websites
+      status: operational
       link: https://vpn.tekion.com/
 
-    # Corp Apps  
-
+    # Corp Apps Services
     - name: Jira
       description: The guts of the application.
       category: Corp Apps Services
+      status: operational
     - name: Confluence
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Corp Apps Services
+      status: operational
     - name: Gateway
       description: Gateway service for handling connections.
       category: Corp Apps Services
+      status: operational
 
     
 
