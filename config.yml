@@ -197,11 +197,6 @@ params:
       status: operational
 
     # Downtime Notices
-    - name: VPN Downtime Notices
-      category: Downtime Notices
-    
-    - name: Full Tunnel VPN Downtime Notices
-      category: Downtime Notices
       
     # IT Internal
     - name: Teams Rooms
