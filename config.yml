@@ -161,7 +161,7 @@ params:
       closed: true
       untitled: false
 
-    - name: Corp Apps Services
+    - name: Corp Apps
       description: Check here for Operational status of Corp Apps Services.
       closed: true
       untitled: false
@@ -187,7 +187,7 @@ params:
     - name: CVG
       category: Offices
       status: operational
-    - name: Austin
+    - name: Australia
       category: Offices
       status: operational
 
@@ -236,15 +236,15 @@ params:
     # Corp Apps Services
     - name: Jira
       description: The guts of the application.
-      category: Corp Apps Services
+      category: Corp Apps
       status: operational
     - name: Confluence
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Corp Apps Services
+      category: Corp Apps
       status: operational
     - name: Gateway
       description: Gateway service for handling connections.
-      category: Corp Apps Services
+      category: Corp Apps
       status: operational
 
     
