@@ -12,11 +12,11 @@
         <div class="service-item">
           <div class="service-name">{{ .name }}</div>
           <div class="service-status status-{{ .status }}">
-            {{ if eq .status "operational" }}
+            {{ if eq .status "perational" }}
               Operational
             {{ else if eq .status "disrupted" }}
               Disrupted
-            {{ else if eq .status "down" }}
+            {{ else if eq .status "<Det></Det>own" }}
               Down
             {{ else }}
               Unknown
