@@ -79,13 +79,18 @@
     {
       "name": "Jira",
       "status": "operational",
-      "category": "IT Cloud Infrastructure",
+      "category": "Corp Apps Services",
       "lastUpdated": "2025-09-02T10:34:27.755Z"
     },
     {
       "name": "Confluence",
       "status": "operational",
-      "category": "IT Cloud Infrastructure"
+      "category": "Corp Apps Services"
+    },
+    {
+      "name": "Gateway",
+      "status": "operational",
+      "category": "Corp Apps Services"
     }
   ]
 }
