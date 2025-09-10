@@ -166,6 +166,11 @@ params:
       closed: true
       untitled: false
 
+    - name: Downtime Notices
+      description: Check here for Downtime Notices status.
+      closed: true
+      untitled: false
+
   # These are your systems. Change them to
   # change the amount of components.
   #
@@ -177,7 +182,7 @@ params:
     #Offices
     - name: Bangalore
       category: Offices
-      status: Down
+      status: operational
     - name: Chennai
       category: Offices
       status: operational
@@ -186,11 +191,18 @@ params:
       status: operational
     - name: CVG
       category: Offices
-      status: Down
-    - name: Australia
+      status: operational
+    - name: Austin
       category: Offices
       status: operational
 
+    # Downtime Notices
+    - name: VPN Downtime Notices
+      category: Downtime Notices
+    
+    - name: Full Tunnel VPN Downtime Notices
+      category: Downtime Notices
+      
     # IT Internal
     - name: Teams Rooms
       category: IT Internal
